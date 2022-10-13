@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**mcorengia1/mcorengia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I know about the following:
 
-Here are some ideas to get you started:
+![alt text](http://es.wikipedia.org/wiki/Go_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:Go_Logo_Blue.svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
