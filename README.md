@@ -20,6 +20,3 @@ Hi there! I'm Mauro, a FullStack developer from Argentina.
 - Machine learning
 - Software architecture
 - Infraestructure
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcorengia1&show_icons=true)
